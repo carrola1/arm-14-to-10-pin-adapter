@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name arm-14-to-10-pin-adapter)(type KiCad)(uri ${KIPRJMOD}/Libraries/Footprints/arm-14-to-10-pin-adapter.pretty)(options "")(descr ""))
+)
